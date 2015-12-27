@@ -147,6 +147,14 @@ Långt ifrån komplett! [Lägg gärna till](https://github.com/rails-se/rails-se
       </li>
      </ul>
   </li>
+  <li>
+    <a href="http://cyruszei.github.io/me/">Cyrus Zei</a>
+      <ul>
+        <li>
+        {% assign twitter = 'Cyrus_zei' %}{% include twitter.html %}
+        </li>
+      </ul>
+  </li>
 </ul>
 
 ## Stockholm
